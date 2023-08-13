@@ -1,5 +1,4 @@
 @Library('roboshop') _
 
-env.component="payment"
-env.schema_dir=''
-python()
+env.component="cart"
+nodejs()
